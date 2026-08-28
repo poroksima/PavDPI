@@ -2,6 +2,13 @@
 
 # PavDPI 2.0
 
+## İndir / Download
+
+[**PavDPI v2.0.0 ZIP paketini indir**](https://github.com/poroksima/PavDPI/releases/download/v2.0.0/PavDPI-v2.0.0.zip)
+
+> Yeşil **Code → Download ZIP** yerine yukarıdaki sürüm paketini kullan. Paket
+> tek klasöre açılır ve içindeki `README.txt` Not Defteri ile okunur.
+
 Poroksima tarafından geliştirilmiştir. / Developed by Poroksima.
 GitHub: https://github.com/poroksima
 
