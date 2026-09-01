@@ -1,2 +1,2 @@
-source/*.cs linguist-detectable=true linguist-language=C#
-source/*.ps1 linguist-detectable=true linguist-language=PowerShell
+source/*.cs linguist-language=C# linguist-detectable -linguist-generated -linguist-vendored -linguist-documentation
+source/*.ps1 linguist-language=PowerShell linguist-detectable -linguist-generated -linguist-vendored -linguist-documentation
